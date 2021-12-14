@@ -3,7 +3,7 @@
 # https://github.com/bazelbuild/bazel/issues/7093
 # https://github.com/bazelbuild/bazel/issues/8106
 .git
-node_modules
+nobde_modules
 dist
 aio/content
 aio/node_modules
